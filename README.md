@@ -20,17 +20,11 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 
  1. login to the network server using login link  https://iot.saveetha.in/
  2. Click on the nework server as shown blow 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
-4. click on the lora options , lora - frequency plan 
-5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
-6. add the attributesin the end device as  shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
-7.using AT commands configure end device in serial port utility
+ 4. click on the lora options , lora - frequency plan 
+ 5. click on channel s and create a new channel after which you can add a new end device 
+ 6. add the attributesin the end device as  shown below 
+ 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
  AT+NJM=1 // To set OTAA mode
@@ -45,6 +39,21 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 ## OUTPUT 
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/e771e9e0-310b-469e-bc44-2397779b7a2c)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/1e10a766-bf39-42be-9a9f-99ecbc4e9742)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/75ba64cf-9aa6-4a06-955a-e3d90c242f75)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/44a65de8-077d-4b41-a8bb-c63d29297398)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/89df20d4-2fbb-4542-b7f7-c913c9d1741c)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/ea366eef-fb12-4e23-adfa-0b7bdaa6a95b)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/df15cd18-08a7-497a-b4da-089254098d55)
+
+![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/7648ae3b-cf33-4a67-a345-57bee889f67a)
 
 ## Results: 
 
