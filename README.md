@@ -39,19 +39,35 @@ To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
 ## OUTPUT 
+
+#### While click on network layer:
+
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/e771e9e0-310b-469e-bc44-2397779b7a2c)
+
+#### Gateway created:
 
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/1e10a766-bf39-42be-9a9f-99ecbc4e9742)
 
+#### General setting view of a gateway created:
+
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/75ba64cf-9aa6-4a06-955a-e3d90c242f75)
+
+#### Gateway overview:
 
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/44a65de8-077d-4b41-a8bb-c63d29297398)
 
+#### Channel for the gateway is created and its general settings view:
+
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/89df20d4-2fbb-4542-b7f7-c913c9d1741c)
 
+#### Channel overview:
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/ea366eef-fb12-4e23-adfa-0b7bdaa6a95b)
 
+#### Channel view with description:
+
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/df15cd18-08a7-497a-b4da-089254098d55)
+
+#### End device of the channel created:
 
 ![image](https://github.com/Yuvaranithulasingam/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/121418522/7648ae3b-cf33-4a67-a345-57bee889f67a)
 
